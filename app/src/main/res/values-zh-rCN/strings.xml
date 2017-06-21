@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_name">前台程序监测服务</string>
+    <string name="accessibility_service_description">本服务用于监测并记录所有运行在前台的应用程序，记录存放在\ForegroundAppMonitor文件夹。源代码在https://github.com/DevelopersAssociation</string>
+</resources>
