@@ -1,4 +1,10 @@
 <resources>
-    <string name="accessibility_service_name">foreground app monitoring service</string>
-    <string name="accessibility_service_description">to monitor which app is in the foreground and record the foreground app running time. The data will be saved at \ForegroundAppMonitor. Source code https://github.com/DevelopersAssociation</string>
+    <string name="app_name">foreground app monitoring</string>
+    <string name="accessibility_service_description">
+        to monitor which app is in the foreground and record the foreground app running time. The data will be saved at \\ForegroundAppMonitor.\n
+        \n
+        Version:v1.1.0\n
+        Author: FruitBasket\n
+        Email: FruitBasket@qq.com\n
+        Source code: github.com/DevelopersAssociation</string>
 </resources>

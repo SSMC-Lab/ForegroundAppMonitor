@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_service_name">前台程序监测服务</string>
-    <string name="accessibility_service_description">本服务用于监测并记录所有运行在前台的应用程序，记录存放在\ForegroundAppMonitor文件夹。源代码在https://github.com/DevelopersAssociation</string>
+    <string name="app_name">前台程序监测</string>
+    <string name="accessibility_service_description">
+        本服务用于监测并记录所有运行在前台的应用程序，记录存放在SdCard的ForegroundAppMonitor文件夹中。\n
+        \n
+        版本：v1.1.0\n
+        作者：水果篮\n
+        邮箱：FruitBasket@qq.com\n
+        源代码：github.com/DevelopersAssociation
+    </string>
 </resources>
